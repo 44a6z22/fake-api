@@ -1,0 +1,22 @@
+{
+    "Products": {
+        "id": "int",
+        "name": "string",
+        "minSurface": "int",
+        "maxSurface": "int",
+        "minPrice": "int",
+        "maxPrice": "int",
+        "items": "item[]"
+    }, 
+    "Item": {
+        "id": "int",
+        "type": "string",
+        "tva": "string",
+        "livraison": "string",
+        "surface": "string",
+        "etage": "string",
+        "Orientation": "string",
+        "lesplus": "string",
+        "product": "Product"
+    }
+  }
