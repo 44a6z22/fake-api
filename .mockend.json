@@ -6,7 +6,7 @@
         "maxSurface": "int",
         "minPrice": "int",
         "maxPrice": "int",
-        "items": "item[]"
+        "items": "Item[]"
     }, 
     "Item": {
         "id": "int",
